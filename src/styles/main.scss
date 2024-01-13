@@ -1,0 +1,9 @@
+.main{
+  background-color: tomato;
+  &__section{
+    color: greenyellow;
+  }
+  &__second{
+    color: blueviolet;
+  }
+}
